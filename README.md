@@ -28,7 +28,6 @@ after another, and we picked the fastest one, 18 min 30 sec for 12.000 links.
 
 Module used:
 ------------
-
 - selenium
 - webdriver_manager
 - geckodrdiver for firefox
