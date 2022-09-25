@@ -32,7 +32,6 @@ Module used:
 - webdriver_manager
 - geckodrdiver for firefox
 
-
 ## Installation
 1. Clone the repo
 2. Install the libraries
